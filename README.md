@@ -1,2 +1,3 @@
-# 
-WiiUTitleKeyhttp://nintendobrew.com/WiiUTitleKey/
+# WiiUTitleKey
+
+http://nintendobrew.com/WiiUTitleKey/
